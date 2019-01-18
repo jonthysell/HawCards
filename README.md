@@ -1,6 +1,6 @@
 # HawCards #
 
-HawCards is a collection of Hawaiian language word lists provided to aid in the creation of flashcards. Lists are provided as rawm tab-separated text files, along with any links to versions on popular online flashcard services.
+HawCards is a collection of Hawaiian language word lists to aid in the creation of flashcards. Lists are provided as raw tab-separated text files, along with any links to versions on popular online flashcard services.
 
 ## Word Lists ##
 
@@ -26,4 +26,4 @@ Source: http://the.honoluluadvertiser.com/article/2007/Jul/06/ln/wordlist.html
 
 ## Errata ##
 
-Unless otherwise noted, HawCards makes no claim of accuracy nor copyright over any of the word lists collected here.
+HawCards makes no claim as to the accuracy of the translations, nor does HawCards assert any copyright over these word lists. The intent of HawCards is simply to assist students of Hawaiian.
