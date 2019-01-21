@@ -2,9 +2,19 @@
 
 HawCards is a collection of Hawaiian language word lists to aid in the creation of flashcards. Lists are provided as raw tab-separated text files, along with any links to versions on popular online flashcard services.
 
+## Book Lists ##
+
+The following lists are taken from popular Hawaiian language books.
+
+### [Learn Hawaiian at Home: Speak Hawaiian today!!](https://www.amazon.com/Learn-Hawaiian-Home-English/dp/1573062456/) by Kahikāhealani Wight ###
+
+| Name | Word List | Raw Text | Online |
+|:----:|:---------:|:--------:|:-------:|
+| Hawaiian-English Glossary | [LearnHawaiianAtHomeHEG.txt](./lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Quizlet Set](https://quizlet.com/361182040) |
+
 ## Online Lists ##
 
-The following lists are from freely available online sources.
+The following lists are taken from freely available online sources.
 
 ### [101 Languages: Hawaiian Word List](https://www.101languages.net/hawaiian/hawaiian-word-list/) ###
 
