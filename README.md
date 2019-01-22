@@ -26,7 +26,13 @@ The following lists are taken from freely available online sources.
 
 | Word List | Raw Text | Online |
 |:---------:|:--------:|:-------:|
-| [HonoluluAdvertiser.txt](./lists/HonoluluAdvertiser.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/StarHonoluluAdvertiserEssential.txt) | [Quizlet Set](https://quizlet.com/172485514), [Tinycards Deck](https://tiny.cards/decks/KGAnj2sq) |
+| [HonoluluAdvertiser.txt](./lists/HonoluluAdvertiser.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/HonoluluAdvertiserEssential.txt) | [Quizlet Set](https://quizlet.com/172485514), [Tinycards Deck](https://tiny.cards/decks/KGAnj2sq) |
+
+### [Lonely Planet: Hawaiian Language & Glossary](http://media.lonelyplanet.com/shop/pdfs/hawaiian-language-glossary-secure.pdf) ###
+
+| Word List | Raw Text | Online |
+|:---------:|:--------:|:-------:|
+| [LonelyPlanet.txt](./lists/LonelyPlanet.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LonelyPlanet.txt) | [Quizlet Set](https://quizlet.com/361482358), [Tinycards Deck](https://tiny.cards/decks/KGCacD1h) |
 
 ### [Small Talk: Hawaiian Language Phrasebook](http://www.lulu.com/shop/ahonui-miuizlet.com/_4ogfhvms/small-talk/ebook/product-20369790.html) by Ahonui Mims ###
 
