@@ -11,6 +11,7 @@ The following lists are taken from popular Hawaiian language books.
 | Name | Word List | Raw Text | Online |
 |:-----|:---------:|:--------:|:-------:|
 | Hawaiian-English Glossary | [LearnHawaiianAtHomeHEG.txt](./lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Quizlet Set](https://quizlet.com/361182040), [Tinycards Deck](https://tiny.cards/decks/KGAr7W8K) |
+| English-Hawaiian Glossary | [LearnHawaiianAtHomeEHG.txt](./lists/LearnHawaiianAtHome/LearnHawaiianAtHomeEHG.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LearnHawaiianAtHome/LearnHawaiianAtHomeEHG.txt) | [Quizlet Set](https://quizlet.com/386704772), [Tinycards Deck](https://tiny.cards/decks/LQXKeYgj) |
 
 ## Miscellaneous Online Lists ##
 

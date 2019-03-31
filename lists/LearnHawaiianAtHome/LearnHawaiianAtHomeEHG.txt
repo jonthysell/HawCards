@@ -1,0 +1,395 @@
+able to, can	hiki
+adornment	wehi, kāhiko
+afraid	makaʻu
+airplane	mokulele
+animal	holoholona
+answer	pane
+appropriate	kūpono
+archipelago	paeʻāina
+awake, to awaken	ala
+awkward	hemahema
+baby	pēpē
+back	kua
+bad	ʻino
+bad-smelling	hohono
+banana	maiʻa
+beach	kahakai
+beautiful	uʻi, nani
+bed	moe
+bedroom	lumimoe
+Bible	Paipala
+big	nui
+bird	manu
+birth, to give birth	hānau
+birthday	lā hānau
+black	ʻeleʻele
+blanket	kapa
+boat (steamship)	mokuahi
+book	puke
+boy	keikikāne
+breakfast	ʻaina kakahiaka
+bring	lawe mai
+build	kūkulu
+building	hale
+bury	kanu
+buy	kūʻai mai
+calico	kalakoa
+calm	mālie
+canoe	waʻa
+canoe shed	hālau
+capital	kapikala
+captain	kāpena
+car	kaʻa
+cat	pōpoki
+cave	ana
+chair	noho
+child	keiki
+church	halepule
+class	papa
+clean (adj.)	maʻemaʻe
+to clean	hoʻomaʻemaʻe
+cliff	pali
+climb, rise up	piʻi
+clock	uaki
+close (distance)	kokoke
+close (relationship)	pili
+coffee	kope
+color	waihoʻoluʻu
+comb	kahi
+come	hele mai
+come back	hoʻi mai
+comfortable	ʻoluʻolu
+command	kauoha
+commoner	makaʻāinana
+computer	lolouila
+converse	kamaʻilio
+correct	pololei
+count	helu
+courageous	koa
+create	hoʻokumu
+creation of world	hoʻokumu honua
+cry	uē
+dance	hula
+darkness	pō
+daughter	kaikamahine
+day, sun	lā
+daylight, daytime	ao
+dead	make
+delicious	ʻono
+demonstrate, demonstration	hōʻike
+desire	ʻiʻini, makemake
+desk	pākaukau
+die	hala
+difficult	paʻakikī
+dinner	ʻaina ahiahi
+dirty	lepo
+distinguished	hanohano
+doctor	kauka
+dog	ʻīlio
+dolphin	naiʻa
+draw, drawing	kiʻi
+to drink	inu
+drink	mea inu
+drown	piholo
+ear	pepeiao
+earth	honua
+easy	maʻalahi
+embarrassed	hilahila
+English language	ʻōlelo Haole
+enough	lawa
+enter	komo
+era, time period	wā
+expensive	pipiʻi
+eye	maka
+family	ʻohana
+famous	kaulana
+far	mamao
+farmer	mahiʻai
+fast	ʻāwīwī, wikiwiki
+fat	momona
+father	makuakāne
+feed	hānai
+fence	pā
+field	kahua
+finished	pau
+firefighter	kinai ahi
+fish	iʻa
+fisherman	lawaiʻa
+flower	pua
+follow	hāhai
+food	mea ʻai
+foot	wāwae
+forehead	lae
+four	ʻehā
+fragrance	ʻala
+Friday	pō'alima
+friend	hoaaloha
+front	alo
+fruit	hua ʻai
+fruit juice	wai hua ʻai
+full (of liquid)	piha
+full (of food), satiated	māʻona
+garden	māla
+gather	ʻohi
+genesis	kinohi
+gentle (breeze)	aheahe
+gift	makana
+girl	kaikamahine
+give	hāʻawi
+glasses (eye)	makaaniani
+go	hele
+god	akua
+good	maikaʻi
+governor	kiaʻāina
+grab	hopu
+grandchild	moʻopuna
+granddaughter	moʻopunawahine
+grandfather	kupunakāne
+grandmother	kupunawahine
+grandparent	kupuna
+grandson	moʻopunakāne
+grave	he
+green	ʻōmaʻomaʻo
+grey	hinahina
+group	hui
+happy	hauʻoli
+harm	hanaʻino
+hat	pāpale
+he	ʻo ia
+head	poʻo
+healthy	ola
+hear	hoʻolohe
+heart	puʻuwai
+heavy	kaumaha
+help	kōkua
+here (location)	ʻaneʻi
+hole	lua
+hospital	haukapila
+hot	wela
+hotel	hōkele
+hour	hola
+house	hale
+hula school	hālau
+human	kanaka
+humble	haʻahaʻa
+hungry	pōloli
+husband	kāne
+ill	maʻi
+inexpensive	emi
+island	mokupuni
+Japanese	Kepanī
+job, activity	hanaʻino
+jump	lele
+kind (nice)	ʻoluʻolu
+kind (type, brand)	ʻano
+kiss	honi
+knowledge, to know	ike
+land	ʻāina
+language	ʻōlelo
+last-born child	muliloa
+laugh	ʻakaʻaka
+lazy	moloā
+lead, leader	alakaʻi
+learn	aʻo mai
+leave	haʻalele
+lie, tell a lie	hoʻopunipuni
+lie down	moe
+life	ola
+lifestyle	nohona
+listen	hoʻolohe
+live someplace	noho
+lively	ʻeleu
+local person	kamaʻāina
+lonely	mehameha
+long	lōʻihi
+love	aloha
+majestic	kilakila
+man	kāne
+market	mākeke
+mature	oʻo
+meal	ʻaina
+meat	ʻiʻo
+meeting	hālāwai
+messy	kāpulu
+metal	hao
+minister	kahunapule
+mischievous	kolohe
+mist	hune, ʻehu
+mistake	hewa
+Monday	pōʻakahi
+money	kālā
+month	mahina, malama
+moon	mahina
+morning	kakahiaka
+my	koʻu, kaʻu
+name	inoa
+nationality	lāhui
+new	hou
+newcomer	malihini
+newspaper	nūpepa
+night	pō
+nine	ʻeiwa
+noble	aliʻi
+noontime	awakea
+nosy	nīele
+number	helu
+octopus	heʻe
+old	kahiko
+open	wehe
+opened	hāmama
+orange	ʻalani
+paddle, to paddle	hoe
+painful	ʻeha
+paper	pepa
+parent	makua
+party	pāʻina
+pass by, pass away	hala
+pathway	alahele
+peninsula, point	lae
+people	poʻe, kanaka
+picture	kiʻi
+pig	puaʻa
+pink	ʻākala
+plant	meakanu
+to plant	kanu
+play, to play	pāʻani
+police	mākaʻi
+police station	halemākaʻi
+poor	ʻilihune
+post office	haleleka
+prayer, to pray	pule
+predict	wānana
+prepared	mākaukau
+pretty	nani
+price	kumukūaʻi
+pride, proud	haʻaheo
+problem	pilikia
+proper	kūpono
+protect	hoʻomalu, kiaʻi
+pure, pristine	hemolele
+purple	poni
+quenched thirst	kena
+question	nīnau
+quick	ʻāwīwī
+radio	lēkiō
+rain	ua
+rat	ʻiole
+read	heluhelu
+refrain (song)	puana
+religious site	heiau
+repair	hoʻoponopono
+restaurant	hale ʻaina
+return, go back	hoʻi
+rice	laiki
+rich	waiwai
+road, street	alanui
+rock	pōhaku
+room	lumi
+run	holo
+sad	kaumaha
+sale	kuʻaiemi
+sand	one
+Saturday	pōʻaono
+school	kula
+schoolhouse	halekula
+sea	kai
+seaweed	limu
+to see, sight	ʻike
+she	ʻo ia
+shell	pūpū
+shirt	pālule
+shoe, shoes	kāmaʻa
+short	pōkole
+shovel	kopalā
+side	ʻaoʻao
+sign, symbol	hōʻailona
+silence	hāmau
+sing, song	hīmeni, mele
+six	ʻeono
+skilled	noʻeau, mākaukau
+slow	lohi
+smart	akamai
+smell	honi
+son	keikikāne
+soul, spirit	ʻuhane
+spiritual power	mana
+steal, thief	ʻaihue
+stir up (dust)	kuehu
+stomach	ʻōpū
+store	halekūʻai
+storm	pōʻino
+story	moʻolelo
+strange	ʻa no ʻē
+sgtrong	ikaika
+student	haumāna
+sun	lā
+Sunday	lāpule
+to surf	heʻenalu
+surfboard	papa heʻenalu
+sweet-tasting	momona
+swim	ʻauʻau, ʻau
+take	lawe aku
+take care of	mālama
+take off, remove	wehe
+tall	lʻoihi, kiʻekiʻe
+taro	kalo
+teacher	kumu
+telephone	kelepona
+television	kīwī
+thanks	mahalo
+that	kēlā
+the	ka, ke
+there	laila (already know name of place)
+thief	ʻaihue
+thin	wīwī
+thirsty	makewai
+this	kēia
+thought, to think	manaʻo
+three	ʻekolu
+Thursday	pōʻahā
+ticket	kikiki
+time	manawa
+tired	māluhiluhi
+tomorrow	lā ʻapōpō
+tour, tourist	mākaʻikaʻi
+towel, to dry	kāwele
+town	kūlanakauhale
+trouble	pilikia
+truck	kalaka
+Tuesday	pōʻalua
+two	ʻelua
+ugly	pupuka
+understand, understood	maopopo
+university	kula nui
+us	kākou, kāua
+valley	awāwa
+valuable	waiwai
+various	likeʻole
+victory, victorious	lanakila
+visit	kipa
+wait	kali
+waiter/waitress	kuene
+wall	paia
+war	kaua
+wash	holoi
+to watch	nānā
+watch	uaki
+water	wai
+wave	nalu, ʻale
+weak	nāwaliwali
+weave	ulana
+Wednesday	pōʻakolu
+whisper	hāwanawana
+white	keʻokeʻo
+wilted	mae
+wind, breeze	makani
+wise, educated	naʻauao
+woman	wahine
+write	kākau
+wrong	hewa
+yard	pā hale
+year	makahiki
+yellow	melemele
+you	ʻoe
+young	ʻōpiopio
+your	kou/kāu
