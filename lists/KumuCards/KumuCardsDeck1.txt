@@ -1,0 +1,72 @@
+melemele	yellow
+ʻalani	orange
+ʻulaʻula	red
+ʻākala	pink
+ʻōmaʻomaʻo	green
+polū	blue
+poni	purple
+keʻokeʻo	white
+ʻāhinahina	grey
+ʻeleʻele	black
+mākuʻe	brown
+kauluwela	colorful
+ʻole	zero
+ʻekahi	one
+ʻelua	two
+ʻekolu	three
+ʻehā	four
+ʻelima	five
+ʻeono	six
+ʻehiku	seven
+ʻewalu	eight
+ʻeiwa	nine
+ʻumi	ten
+heʻe	octopus
+ʻelepani	elephant
+pipi wahine	cow
+lio	horse
+keko	monkey
+ʻiole	rat
+moʻo	gecko
+pulelehua	butterfly
+puhi	eel
+ʻōhiki	crab
+pueo	owl
+puaʻa	pig
+ʻīlio	dog
+moa	chicken
+pōpoki	cat
+iʻa	fish
+manu	bird
+honu	turtle
+manō	shark
+naiʻa	dolphin
+koholā	whale
+kāne	man
+wahine	woman
+makuakāne	dad
+makuahine	mom
+tūtū kāne	grandfather
+tūtū wahine	grandmother
+ʻohana	family
+kumu	teacher
+mahiʻai	farmer
+lawaiʻa	fisherman
+paniolo	cowboy
+keiki kāne	boy
+kaikamahine	girl
+kamaliʻi	children
+poʻo	head
+maka	eye
+ihu	nose
+waha	mouth
+pepeiao	ear
+lima	hand
+manamana lima	finger
+kuli	knee
+wāwae	feet
+manamana wāwae	toe
+poʻohiwi	shoulder
+ʻōpū	stomach
+piko	navel
+lauoho	hair
