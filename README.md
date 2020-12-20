@@ -24,6 +24,21 @@ The following lists are taken from popular Hawaiian language books.
 | Hawaiian-English Glossary | [LearnHawaiianAtHomeHEG.txt](./lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LearnHawaiianAtHome/LearnHawaiianAtHomeHEG.txt) | [Quizlet Set](https://quizlet.com/361182040) |
 | English-Hawaiian Glossary | [LearnHawaiianAtHomeEHG.txt](./lists/LearnHawaiianAtHome/LearnHawaiianAtHomeEHG.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/LearnHawaiianAtHome/LearnHawaiianAtHomeEHG.txt) | [Quizlet Set](https://quizlet.com/386704772) |
 
+## Language Audio Lists ##
+
+The following lists are taken from popular Hawaiian language audio programs.
+
+### [Instant Immersion Hawaiian](https://www.amazon.com/Instant-Immersion-Hawaiian-Kaliko-Beamer-Trapp/dp/1591502950/) ###
+
+| Name | Word List | Raw Text | Online |
+|:-----|:---------:|:--------:|:------:|
+| Disc 2 Vocab | [InstantImmersionHawaiianDisc2.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc2.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc2.txt) | [Quizlet Set](https://quizlet.com/557415729) |
+| Disc 3 Vocab | [InstantImmersionHawaiianDisc3.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc3.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc3.txt) | [Quizlet Set](https://quizlet.com/557415954) |
+| Disc 4 Vocab | [InstantImmersionHawaiianDisc4.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc4.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc4.txt) | [Quizlet Set](https://quizlet.com/557416089) |
+| Disc 5 Vocab | [InstantImmersionHawaiianDisc5.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc5.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc5.txt) | [Quizlet Set](https://quizlet.com/557416129) |
+| Disc 6 Vocab | [InstantImmersionHawaiianDisc6.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc6.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc6.txt) | [Quizlet Set](https://quizlet.com/557416179) |
+| Disc 7 Vocab | [InstantImmersionHawaiianDisc7.txt](./lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc7.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/master/lists/InstantImmersionHawaiian/InstantImmersionHawaiianDisc7.txt) | [Quizlet Set](https://quizlet.com/557416231) |
+
 ## Miscellaneous Online Lists ##
 
 The following lists are taken from various, freely available sources online.
