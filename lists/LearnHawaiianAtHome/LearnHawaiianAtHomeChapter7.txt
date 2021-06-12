@@ -1,0 +1,63 @@
+kukui	light, lamp
+uila	electricity
+kīwī	television
+lēkiō	radio
+noho	chair
+pākaukau	table
+ʻaina	meal
+hale ʻaina	restaurant
+kuene	waiter/waitress
+mea ʻai	food
+mea inu	drink
+wai	water
+ʻōpala	garbage
+kaʻa	car
+alanui	street
+mokulele	plane
+kikiki	ticket
+kahua mokulele	airport
+helu	to count
+heluhelu	to read
+kākau	to write
+kali	to wait
+mahiʻai	to farm
+lawaiʻa	to fish
+nānā	to watch, look
+hāpai	to lift up, carry
+uē	to cry
+lawe mai	to bring
+lawe aku	to take
+ʻaihue	to steal
+hānai	to raise, feed
+ʻakaʻaka	to laugh
+holoi	to wash
+kamaʻilio	to converse
+hiamoe	to sleep
+ala	to wake up
+ʻekahi	one
+ʻelua	two
+ʻekolu	three
+ʻehā	four
+ʻelima	five
+ʻeono	six
+ʻehiku	seven
+ʻewalu	eight
+ʻeiwa	nine
+ʻumi	ten
+ka pōʻakahi	Monday
+ka pōʻalua	Tuesday
+ka pōʻakolu	Wednesday
+ka pōʻahā	Thursday
+ka pōʻalima	Friday
+ka pōʻaono	Saturday
+ka lāpule	Sunday
+i ka pōʻahā	on Thursday
+i ka pōʻakahi	on Monday
+i ka lāpule	on Sunday
+ka ʻaina kakahiaka	breakfast
+ka ʻaina awakea	lunch
+ka ʻaina ahiahi	dinner
+E hiamoe ana ka pēpē i ka mokulele.	The baby will sleep on the airplane.
+Ua lawe aku ke kuene i ka ʻōpala.	The waitress took away the garbage.
+Holo nā kaʻa ma ke alanui.	The cars run on the street.
+Holo na waʻa ma ke kai.	The canoes travel on the sea.

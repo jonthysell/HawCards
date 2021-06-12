@@ -1,0 +1,46 @@
+kamaʻāina	local person
+malihini	newcomer, guest
+ʻaumakua	guardian spirit
+moʻopunakāne	grandson
+moʻopunawahine	granddaughter
+hōʻike	show, display
+kelepona	telephone
+makana	gift
+lā hānau	birthday
+pāʻina	party
+kālā	money
+kumukūʻai	price
+halekūʻai	store
+kikowaenakūʻai	shopping center
+hōkele	hotel
+lumi	room
+kahakai	beach
+one	sand
+hele mai	to come
+hele	to go
+hana	to work
+pāʻani	to play
+nīnau	to question
+pane	to answer
+ʻai	to eat
+inu	to drink
+ʻōlelo	to speak
+hōʻike	to show
+noho	to sit, stay someplace
+kū	to stand
+alakaʻi	to lead
+mākaʻikaʻi	to sightsee
+ʻike	to see
+hāʻawi	to give
+kūʻai mai	to buy
+kūʻai aku	to sell
+i ka halekūʻai pipiʻi	at the expensive store
+i ke kikowaenakūʻai ʻo Ala Moana	at the Ala Moana shopping center
+i kona kula	at his school, in his school
+i ka hōkele kaulana	at the famous hotel, in the famous hotel
+ʻŌlelo kona kupunawahine.	Her grandmother speaks.
+ʻŌlelo kona kupunawahine i ka ʻōlelo Hawaiʻi.	Her grandmother speaks Hawaiian.
+Kūʻai mai ʻo Lei i ka makana.	Lei buys the gift.
+Kūʻai mai ʻo Lei i ka makana i ke kikowaenakūʻai ʻo Ala Moana.	Lei buys the gift at Ala Moana shopping center.
+Pāʻani ka malihini.	The newcomer plays.
+Pāʻani ka malihini i ke one.	The newcomer plays in the sand.

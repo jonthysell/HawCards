@@ -1,0 +1,58 @@
+kinai ahi	firefighter
+kauka	doctor
+haukapila	hospital
+keikikāne	son, boy
+kaikamahine	daughter, girl
+kino	body
+puʻuwai	heart
+poʻo	head
+maka	eye, face
+lima	hand, arm
+wāwae	foot, leg
+kua	back
+waha	mouth
+ʻōpū	stomach
+lole	clothes
+pāpale	hat
+kāmaʻa	shoe
+makaaniani	eyeglasses
+uaki	watch, clock
+waiwai	valuable, wealthy
+ʻilihune	poor
+hilahila	embarrassed, ashamed
+haʻaheo	proud
+pono	righteous
+kūpono	appropriate, proper
+uʻi	beautiful (people)
+paʻakikī	difficult, hard
+maʻalahi	easy
+pipiʻi	expensive
+emi	cheap
+ʻeleu	lively
+moloā	lazy
+kolohe	mischievous
+kāpulu	messy
+haʻahaʻa	low, humble
+kiʻekiʻe	high up, tall
+He aha kēia?	What's this?
+He pua kēia.	This is a flower.
+He pua ʻaʻala kēlā?	Is that a fragrant flower?
+ʻAe. He pua ʻaʻala kēlā.	Yes, that is a fragrant flower.
+He ʻohana lākou?	Are they a family?
+ʻAʻole. He hālau hula lākou.	No. They are a hula troupe.
+He kinai ahi pono ʻo Keahi?	Is Keahi a righteous fireman?
+ʻAe. He kinai ahi pono ʻo ia.	Yes, he is a righteous fireman.
+He Hawaiʻi haʻaheo au.	I am a proud Hawaiian.
+Maopopo iā ʻoe?	Do you understand?
+ʻAe, maopopo iaʻu.	Yes, I understand.
+ʻAʻole maopopo iaʻu.	I don't understand.
+ʻeleʻele	black
+ʻulaʻula	red
+melemele	yellow
+uliuli	blue
+ʻākala	pink
+keʻokeʻo	white
+ʻalani	orange
+ʻōmaʻomaʻo	green
+poni	purple
+hinahina	grey

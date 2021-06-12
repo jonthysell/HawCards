@@ -1,0 +1,53 @@
+akua	god
+kanaka	human
+lani	heaven, chief
+honua	earth
+wahine	woman, wife
+kāne	man, husband
+inoa	name
+ʻohana	family
+kupuna	grandparent
+moʻopuna	grandchild
+makua	parent
+keiki	child
+aloha	love
+hoaaloha	friend
+kula	school
+haumāna	student
+kumu	teacher
+ʻōlelo	language, speech
+maikaʻi	good, well, fine
+ʻoluʻolu	kind, comfortable
+māluhiluhi	tired
+maʻi	sick
+hohono	bad-smelling
+ʻaʻala	fragrant, sweet-smelling
+nui	big
+liʻiliʻi	little
+kahiko	old
+hou	new
+kaumaha	heavy, sad
+hauʻoli	happy
+nani	pretty
+pupuka	ugly
+momona	sweet-tasting, fat
+wīwī	thin
+lōʻihi	tall
+pōkole	short
+Aloha kākou	Greetings to all of us (3 or more).
+Aloha kāua	Greetings to both of us (you and me).
+Aloha kakahiaka	Good morning (6 a.m. to 10 a.m.).
+Aloha awakea	Good noontime (10 a.m. to 2 p.m.).
+Aloha ʻauinalā	Good afternoon (2 p.m. to 6 p.m.).
+Aloha ahiahi	Good evening (6 p.m. to 10 p.m.).
+Aloha kakahiaka kākou	Good morning to us all.
+Aloha ahiahi kāua	Good evening to both of us.
+ʻAe	Yes.
+ʻAʻole	No.
+Pehea ʻoe?	How are you?
+Maikaʻi nō au, mahalo.	I'm very well, thanks.
+Māluhiluhi au.	I'm tired.
+Maʻi ʻo ia.	She is sick.
+Aloha kāua, e ke kumu.	Hello to you and mee, teacher.
+Aloha ahiahi, e Momi.	Good evening, Momi.
+Aloha kakahiaka kākou, e ka papa.	Good evening to us all, class.

@@ -1,0 +1,51 @@
+kahuna	expert, priest
+mana	spiritual power
+kahunapule	minister
+halepule	church
+pule	prayer, week
+mahina	moon, month
+makahiki	year
+ola	life
+make	death
+pilikia	problem
+pō	night, darkness
+ao	daytime, cloud
+holoholona	animal
+pōpoki	cat
+ʻīlio	dog
+waʻa	canoe
+hoe	paddle
+papa heʻenalu	surfboard
+pule	to pray
+kōkua	to help
+ʻauʻau	to bathe, swim
+holo	to run
+manaʻo	to think
+hānau	to give birth
+hoe	to paddle
+heʻenalu	to surf
+mālama	to take care of
+hoʻoponopono	to fix, repair
+lele	to jmp
+hoʻi	to return, go back
+hoʻi mai	to come back
+komo	to enter
+wehe	to open
+pani	to close
+honi	to kiss, smell
+hoʻolohe	to listen
+kēia mau pōpoki	these cats
+nā pōpoki	the cats
+kēlā mau holoholona	those animals
+nā holoholona	the animals
+i kēia lā	today
+i ka lā ʻapōpō	tomorrow
+i kēia pule	this week
+i nehinei	yesterday
+i kēia kakahiaka	this morning
+i kēia ahiahi	this evening
+Aia kou* mau ʻīlio i ka hale?	Are your dogs at home?
+Aia kēia mau makuakāne i ka hana.	These fathers are at work.
+Aia ka papa hou i kēia pule.	The new class is this week.
+Kōkua ke kahunapule i nā keiki ʻilihune.	The minister helps the poor children.
+Mālama nā moʻopuna i ka ʻōlelo Hawaiʻi.	The grandchildren (descendants) take care of the Hawaiian language.
