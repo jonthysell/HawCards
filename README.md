@@ -6,6 +6,12 @@ HawCards is a collection of Hawaiian language word lists to aid in the creation 
 
 The following lists are taken from commercial flashcards.
 
+### [Actions of Aloha](https://www.actionsofaloha.com/) ###
+
+| Name | Word List | Raw Text | Online |
+|:-----|:---------:|:--------:|:------:|
+| ʻAʻa i ka ʻŌlelo | [ActionsOfAlohaAaIKaOlelo.txt](./lists/ActionsOfAloha/ActionsOfAlohaAaIKaOlelo.txt) | [Download](https://raw.githubusercontent.com/jonthysell/HawCards/main/lists/ActionsOfAloha/ActionsOfAlohaAaIKaOlelo.txt) | [Quizlet Set](https://quizlet.com/608735713) |
+
 ### [Kumu Cards](https://www.kumucards.com/) ###
 
 | Name | Word List | Raw Text | Online |

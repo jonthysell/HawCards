@@ -1,0 +1,61 @@
+I lā maikaʻi iā ʻoe	Have a nice day
+E mālama pono	Take good care
+Ke Akua pū	God be with you
+Aloha kakahiaka	Good morning
+Aloha awakea	Good day
+Aloha ʻauinalā	Good afternoon
+Aloha ahiahi	Good evening
+E holomua	Keep moving forward
+Welina me ke aloha	Greetings with regards
+Aloha mai kākou	Greetings to us all
+Hoʻomaikaʻi iā ʻoe	Congratulations to you
+E komo mai	Come inside
+E kipa mai	Come visit
+Maikaʻi nō au	I am indeed good
+He aha kāu hana?	What are you doing?
+Mahalo nui loa	Thank you very much
+Mahalo palena ʻole	Gratitude beyond measure
+A hui hou kāua	Until we meet again
+I hopena pule maikaʻi	Have a great weekend
+Me ka haʻahaʻa	With humility
+E kōkua mai, ke ʻoluʻolu?	Can you help me, please?
+Pehea ʻoe?	How are you?
+Hiki nō	Surely, can do
+He aha ka huaʻōlelo no ___?	What is the Hawaiian word for ___?
+He aha ka manaʻo o ___?	What is the meaning of ___?
+E pāʻina kākou	Let's party
+E pū paʻakai kākou	Let's eat
+He lā maikaʻi kēia	Today is a nice day
+He lā nani kēia	Today is a pretty day
+E hoʻolohe pono	Listen carefully
+E hoʻomākaukau	Get ready
+Mahalo au iā ʻoe	I am thankful for you
+ʻO ʻoe kuʻu hoapili	You're my cherished friend
+Nani loa ʻoe i kēia lā	You look beautiful today
+Haʻaheo au iā ʻoe	I am proud of you
+I kōkua nāu?	How can I help you?
+Hoʻomākeʻaka nō ʻoe	You're so funny
+Aloha wau iā ʻoe	I love you
+Haʻo au iā ʻoe	I miss you
+E holoholo pū kāua	Can we hang out soon?
+Aia au me ʻoe	I'm here for you
+ʻOluʻolu ʻoe. Akamai ʻoe. Koʻikoʻi ʻoe.	You are kind, you are smart, you are important.
+Hilinaʻi au iā ʻoe! E noke i ka hana	I believe in you! You can do it
+ʻO wai kou inoa?	What is your name?
+ʻO ___ koʻu inoa.	My name is ___.
+No hea mai ʻoe?	Where are you from?
+No ___ mai au.	I am from ___.
+Noho ʻoe ma hea?	Where do you live?
+Noho au ma ___.	I live in ___.
+ʻEhia ou makahiki?	How old are you?
+He ___ oʻu makahiki.	I am ___ years old.
+Ua hele ʻoe i ke kula kiʻekiʻe hea?	What high school did you go to?
+Ua hele au i ke kula kiʻekiʻe ʻo ___.	I went to  ___ High School.
+ʻO wai kou makuahine?	Who is your mother?
+ʻO ___ koʻu makuahine.	___ is my mother.
+ʻO wai kou makuakāne?	Who is your father?
+ʻO ___ koʻu makuakāne.	___ is my father.
+Pōloli anei ʻoe?	Are you hungry?
+ʻAe, pōloli loa au!	Yes, I am very hungry!
+I wai nāu?	Would you like some water?
+ʻAe, i wai naʻu ke ʻoluʻolu?	Yes, may I have some water please?
